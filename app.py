@@ -118,8 +118,8 @@ if __name__ == "__main__":
 
     st.sidebar.header("About")
     st.sidebar.info(
-        "This app uses AI to analyze student characteristics and suggest relevent"
-        "outcomes from the Global Citizen Codebook. It helps educators identify"
+        "This app uses AI to analyze student characteristics and suggest relevant \n"
+        "outcomes from the Global Citizen Codebook. It helps educators identify \n"
         "areas of global competence that align with their student's traits and experiences.\n\n"
         "Reference: https://www.globalcities.org/codebook"
     )
